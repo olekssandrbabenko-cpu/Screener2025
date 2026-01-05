@@ -16,3 +16,4 @@
 
 ## Завантаження
 Перейдіть у розділ **Releases** та завантажте останню версію для Windows.
+https://github.com/olekssandrbabenko-cpu/Screener2025/releases/tag/1.0.0
